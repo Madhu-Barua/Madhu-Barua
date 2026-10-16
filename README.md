@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Madhu-Barua/Madhu-Barua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Madhu Barua 👋
 
-Here are some ideas to get you started:
+🎓 MCA Student | Learning Programming and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 💻 Interested in software development and programming.
+- 🌱 Currently improving my C++ and Data Structures & Algorithms (DSA) skills.
+- 🐍 Practicing Python programming.
+- 🎯 Working towards improving my coding and problem-solving abilities.
+
+## Skills & Technologies
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+
+## Projects
+
+### C++ DSA Journey
+A collection of C++ programs and Data Structures & Algorithms practice problems.
+
+- **GitHub:** [cpp-dsa-journey](https://github.com/Madhu-Barua/cpp-dsa-journey)
+- **Live Website:** [Visit Website](http://madhu4205ds.netlify.app/)
+
+## Connect With Me
+- **GitHub:** [Madhu-Barua](https://github.com/Madhu-Barua)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/madhu-barua-705aa137b/)
